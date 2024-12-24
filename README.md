@@ -1,2 +1,2 @@
 # CSC123-231010101022
-ASSIGNMENT 1
+Abubakar Magami: Open Source Software Assignment
